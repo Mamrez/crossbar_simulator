@@ -49,7 +49,7 @@ Design of Relaxation Digital-to-Analog Converters for Internet of Things Applica
 
 DAC -> 1.2 fJ per conversion step
 
-#A Highly Reconfigurable 40-97GS/s DAC and ADC with 40GHz AFE Bandwidth and Sub-35fJ/conv-step for 400Gb/s Coherent Optical Applications in 7nm FinFET
+A Highly Reconfigurable 40-97GS/s DAC and ADC with 40GHz AFE Bandwidth and Sub-35fJ/conv-step for 400Gb/s Coherent Optical Applications in 7nm FinFET
 
 DAC -> 18 fJ per conversion step
 
