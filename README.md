@@ -44,7 +44,7 @@ ADC -> 10 fJ per conversion step
 A 12bit 250 MS/s 5.43fJ/conversion-step SAR ADC with adaptive asynchronous logic in 28 nm CMOS
 ADC -> 5.4 fJ per conversion step
 
-# --------------------------------------
+--------------------------------------
 Design of Relaxation Digital-to-Analog Converters for Internet of Things Applications in 40nm CMOS
 
 DAC -> 1.2 fJ per conversion step
