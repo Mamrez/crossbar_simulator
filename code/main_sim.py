@@ -129,23 +129,6 @@ if __name__ == "__main__":
     )
     adc_access, dac_access, dnpu_access, digital_MAC_access = crossbar.run(input_image)
 
-    # ------------------------------------------------------------------------------------------------------------------------------------
-    # A 34fJ/conversion-step 10-bit 6.66MS/s SAR ADC with built-in digital calibration in 130nm CMOS
-    # ADC -> 34 fJ per conversion step
-
-    # https://www.imec-int.com/en/adc-11-enob -> Analog Digital Converter 11 ENOB 170MS/s
-    # ADC -> 10 fJ per conversion step
-
-    # A 12bit 250 MS/s 5.43fJ/conversion-step SAR ADC with adaptive asynchronous logic in 28 nm CMOS
-    # ADC -> 5.4 fJ per conversion step
-
-    # ------------------------------------------------------------------------------------------------------------------------------------
-    # Design of Relaxation Digital-to-Analog Converters for Internet of Things Applications in 40nm CMOS
-    # DAC -> 1.2 fJ per conversion step
-
-    #  A Highly Reconfigurable 40-97GS/s DAC and ADC with 40GHz AFE Bandwidth and Sub-35fJ/conv-step for 400Gb/s Coherent Optical Applications in 7nm FinFET
-    # DAC -> 18 fJ per conversion step
-
 
     DNPU_energy = dnpu_access * 5e-9 * 10e-9
     DAC_energy = dac_access * 1.2e-15
