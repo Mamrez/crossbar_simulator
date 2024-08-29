@@ -37,6 +37,9 @@ Mohamadreza Zolfagharinejad -- University of Twente
 * A 0.9-V 12-bit 100-MS/s 14.6-fJ/Conversion-Step SAR ADC in 40-nm CMOS
     * ADC -> 14.6 fJ per conversion step
 
+* A 2.2 fJ/Conversion-Step 9.74-ENOB 10 MS/s SAR ADC With 1.5× Input Range
+    * ADC -> 2.2 jF per conversion step
+
 * A 34fJ/conversion-step 10-bit 6.66MS/s SAR ADC with built-in digital calibration in 130nm CMOS  
     * ADC -> 34 fJ per conversion step
 
@@ -45,6 +48,7 @@ Mohamadreza Zolfagharinejad -- University of Twente
 
 * A 12bit 250 MS/s 5.43fJ/conversion-step SAR ADC with adaptive asynchronous logic in 28 nm CMOS  
     * ADC -> 5.4 fJ per conversion step
+
 
 ### Digital-to-analog converter (DAC)
 * Design of Relaxation Digital-to-Analog Converters for Internet of Things Applications in 40nm CMOS  
