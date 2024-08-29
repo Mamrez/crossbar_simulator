@@ -32,7 +32,11 @@ A simulator to evaluate energy consumption of a crossbar array of DNPUs and comp
 Mohamadreza Zolfagharinejad -- University of Twente
 (m.zolfagharinejad@utwente.nl)
 
-## References related to digital-to-analog and analog-to-digital converters
+## Related references
+# Analog-to-digial converter (ADC)
+* A 0.9-V 12-bit 100-MS/s 14.6-fJ/Conversion-Step SAR ADC in 40-nm CMOS
+    * ADC -> 14.6 fJ per conversion step
+
 * A 34fJ/conversion-step 10-bit 6.66MS/s SAR ADC with built-in digital calibration in 130nm CMOS  
     * ADC -> 34 fJ per conversion step
 
@@ -42,6 +46,7 @@ Mohamadreza Zolfagharinejad -- University of Twente
 * A 12bit 250 MS/s 5.43fJ/conversion-step SAR ADC with adaptive asynchronous logic in 28 nm CMOS  
     * ADC -> 5.4 fJ per conversion step
 
+# Digital-to-analog converter (DAC)
 * Design of Relaxation Digital-to-Analog Converters for Internet of Things Applications in 40nm CMOS  
     * DAC -> 1.2 fJ per conversion step
 
