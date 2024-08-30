@@ -132,7 +132,7 @@ if __name__ == "__main__":
 
     DNPU_energy = dnpu_access * 5e-9 * 10e-9
     DAC_energy = dac_access * 1.2e-15
-    ADC_energy = adc_access * 5.4e-15
+    ADC_energy = adc_access * 14.6e-15
     digital_MAC_energy = digital_MAC_access * 5.173e-6*0.97e-9
 
     print(

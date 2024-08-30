@@ -37,6 +37,8 @@ Mohamadreza Zolfagharinejad -- University of Twente
 * A 0.9-V 12-bit 100-MS/s 14.6-fJ/Conversion-Step SAR ADC in 40-nm CMOS
     * ADC -> 14.6 fJ per conversion step
 
+* A 3.1 mW 8b 1.2 GS/s Single-Channel Asynchronous SAR ADC With Alternate Comparators for Enhanced Speed in 32 nm Digital SOI CMOS
+
 * A 2.2 fJ/Conversion-Step 9.74-ENOB 10 MS/s SAR ADC With 1.5× Input Range
     * ADC -> 2.2 jF per conversion step
 
